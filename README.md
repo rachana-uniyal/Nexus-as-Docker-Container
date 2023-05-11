@@ -37,7 +37,9 @@
 
 6. Accessed Nexus in browser:
 
-   - Access volume:
+   http://157.245.105.120:8081/
+
+7. Access volume:
      
      - To see a list of docker volumes: `docker volume ls`
      - To see details (mount point, labels, etc.) of a specific volume: `docker inspect nexus-data`
